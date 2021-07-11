@@ -34,8 +34,6 @@ Saved Model File : https://drive.google.com/file/d/1VazjtXP3cS6iSHJ-ohP19Adu2bXx
 - [Keras] - Keras is an open-source software library that provides a Python interface for artificial neural networks. Keras acts as an interface for the TensorFlow library. 
 - [Streamlit] - Streamlit turns data scripts into shareable web apps. 
 
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
 
 ## How to use it
 
