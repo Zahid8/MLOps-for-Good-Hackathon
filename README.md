@@ -26,7 +26,6 @@ Saved Model File : https://drive.google.com/file/d/1VazjtXP3cS6iSHJ-ohP19Adu2bXx
 
 ## Tech
 
-Dillinger uses a number of open source projects to work properly:
 
 - [Python] - Python is a programming language that lets you work quickly and integrate systems more effectively.
 - [Tensorflow] - TensorFlow is a free and open-source software library for machine learning.
